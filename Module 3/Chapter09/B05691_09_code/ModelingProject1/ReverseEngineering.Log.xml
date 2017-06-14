@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-08-20T20:00:56" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::C9' -  (Package)" />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::C9::Program3' -  (Class)" />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::C9::Program3::Run1' -  (Operation)" />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::C9::Program3::Run1::args' -  (Parameter)" />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::C9::Program3::Run2' -  (Operation)" />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::C9::Program3::Run2::args' -  (Parameter)" />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::C9::Program3::Run3' -  (Operation)" />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::C9::Program3::Run3::args' -  (Parameter)" />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="High" Text="(1) type(s) fully reverse engineered." />
+  <Message Timestamp="2016-08-20T20:00:57" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>
